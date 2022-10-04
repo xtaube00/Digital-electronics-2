@@ -1,4 +1,4 @@
-# Lab 1: YOUR_FIRSTNAME LASTNAME
+# Lab 1: Jakub Tauber
 
 ### Morse code
 
@@ -13,9 +13,22 @@ int main(void)
     // Infinite loop
     while (1)
     {
-        // Generate a lettre `A` Morse code
+      
 
-        // WRITE YOUR CODE HERE
+        // carka v pismenu A
+        digitalWrite(LED_GREEN, HIGH);
+        _delay_ms(LONG_DELAY);
+        digitalWrite(LED_GREEN, LOW);
+        _delay_ms(SHORT_DELAY);
+        
+         // tecka v pismenu A
+        digitalWrite(LED_GREEN, HIGH);
+        _delay_ms(SHORT_DELAY);
+        digitalWrite(LED_GREEN, LOW);
+        _delay_ms(LONG_DELAY);
+        
+        // mezera mezi pismeny
+        _delay_ms(LONG_DELAY);
 
     }
 
