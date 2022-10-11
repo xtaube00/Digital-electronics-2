@@ -8,8 +8,8 @@
    | :-: | :-: | :-: | :-: | :-- |
    | 0 | 0 | input | no | Tri-state, high-impedance |
    | 0 | 1 | input | yes| Pull-up risostor activation |
-   | 1 | 0 | | | |
-   | 1 | 1 | | | |
+   | 1 | 0 | output| no | Output low |
+   | 1 | 1 | output| no | Output high |
 
 ### GPIO library
 
