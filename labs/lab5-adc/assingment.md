@@ -4,14 +4,15 @@
 
 1. Complete table with voltage divider, calculated, and measured ADC values for all five push buttons.
 
-   | **Push button** | **PC0 voltage** | **ADC value (calculated)** | **ADC value (measured)** | **ADC value (measured, hex)** |
+   | **Push button** | **PC0[A0] voltage** | **ADC value (calculated)** | **ADC value (measured)** | **ADC value (measured, hex)** |
    | :-: | :-: | :-: | :-: | :-: |
    | Right  | 0&nbsp;V | 0   | 0 | 0 |
-   | Up     | 0.495&nbsp;V | 101 |  |  |
-   | Down   | 1.203&nbsp;V | 246 |  |  |
-   | Left   |  |  |  |  |
-   | Select |  |  |  |  |
-   | none   |  |  |  |  |
+   | Up     | 0.495&nbsp;V | 101 | 99 | 63 |
+   | Down   | 1.203&nbsp;V | 246 | 257 | 101  |
+   | Left   | 2.468&nbsp;V | 505 | 410 | 19a |
+   | Select | 3.620&nbsp;V | 741 | 640 | 280 |
+   | none   | 5&nbsp;V | 1203 | 1023 | 3ff |
+
 
 ### Temperature meter
 
