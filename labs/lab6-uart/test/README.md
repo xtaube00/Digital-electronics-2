@@ -1,4 +1,4 @@
-# Lab 6: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 6: Jakub Tauber
 
 ### ASCII
 
@@ -28,16 +28,4 @@
 
    ![your figure]()
 
-   navic
-   ## Part 3: Communication between Arduino board and computer
-
-In the lab, we are using [UART library](http://www.peterfleury.epizy.com/avr-software.html) developed by Peter Fleury.
-
-1. Use online manual of UART library and add the input parameters and description of the following functions.
-
-   | **Function name** | **Function parameter(s)** | **Description** | **Example** |
-   | :-- | :-- | :-- | :-- |
-   | `uart_init` | `UART_BAUD_SELECT(9600, F_CPU)` | Initialize UART to 8N1 and set baudrate to 9600&nbsp;Bd | `uart_init(UART_BAUD_SELECT(9600, F_CPU));` |
-   | `uart_getc` |  |  |
-   | `uart_putc` |  |  |
-   | `uart_puts` |  |  |
+  
