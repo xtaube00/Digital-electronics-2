@@ -4,13 +4,13 @@
 
 1. Complete the conversion table with selected instructions:
 
-   | **Instruction** | **Binary opcode** | **Hex opcode** | **Compiler Hex opcode** |
+   | **Instruction** | **Binary opcode** | **Hex opcode (0x)** | **Compiler Hex opcode** |
    | :-- | :-: | :-: | :-: |
-   | `add r24, r0` | `0000_1101_1000_0000` | `0d f0`  |  |
-   | `com r26` | `1001_0101_1010_1000` | `` |  |
-   | `eor r26, r27` | `0010_0111_1010_0011` |  |  |
-   | `mul r22, r20` | `0010_0111_0110_0100`  | `64 9f` |  |
-   | `ret` | `1001_0101_0000_1000` | `95 08` |  |
+   | `add r24, r0` | `0000_1101_1000_0000` | `0d 80` | `80 0d`|
+   | `com r26` | `1001_0101_1010_0000` | `95 a0` | `a0 95` |
+   | `eor r26, r27` | `0010_0111_1010_1011` | `27 ab` | `ab 27` |
+   | `mul r22, r20` | `1001_1111_0110_0100` | `9f 64` | `64 9f` |
+   | `ret` | `1001_0101_0000_1000` | `95 08` | `08 95` |
 
 ### 4-bit LFSR
 
