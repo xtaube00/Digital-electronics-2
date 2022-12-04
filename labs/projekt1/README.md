@@ -37,9 +37,9 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 ### Schema zapojení
 ![schema](obrazky/schema1.png)
 ##### Popis ovládacích prvků
-Joy BTN - tlačítko na joy-sticku
-Joy Y - ovládání joy-sticku po ose y. Na disleji se zobrazí (Up-Down)
-Joy X - ovládání joy-sticku po ose x. Na disleji se zobrazí (Left-Right)
+1. Joy BTN - tlačítko na joy-sticku
+2. Joy Y - ovládání joy-sticku po ose y. Na disleji se zobrazí (Up-Down)
+3. Joy X - ovládání joy-sticku po ose x. Na disleji se zobrazí (Left-Right)
 
 Insert descriptive text and schematic(s) of your implementation.
 
