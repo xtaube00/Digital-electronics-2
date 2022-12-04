@@ -36,7 +36,7 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 ## Hardware description
 ### Schema zapojení
 ![schema](obrazky/schema1.png)
-##### Popis ovládacích prvků
+#### Popis ovládacích prvků
 - Joy BTN - tlačítko na joy-sticku. Na displeji se zobrazí JB:(On/Off)
 - Joy Y - ovládání joy-sticku po ose y. Na disleji se zobrazí (Up-Down)
 - Joy X - ovládání joy-sticku po ose x. Na disleji se zobrazí (Left-Right)
