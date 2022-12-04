@@ -78,7 +78,7 @@ uint8_t btn_val1 = 0;
 uint8_t ovfs = 0;
 char str[4];
 
-//------------------------KUBA-----------------------
+
 #define outputCLK 0
 #define outputDT 1
 #define outputSW 2
@@ -119,7 +119,7 @@ int main(void)
   // Enable conversion complete interrupt
   ADCSRA |= (1<<ADIE);
 
-  //-----------------------KUBA-----------------------------
+  
   GPIO_mode_input_nopull(&DDRD,outputCLK); 
   GPIO_mode_input_nopull(&DDRD,outputDT); 
   GPIO_mode_input_nopull(&DDRB,outputSW);
@@ -249,7 +249,7 @@ int main(void)
 
   ISR(TIMER2_OVF_vect)
   {
-    //---------------------KUBA-----------------------------------
+    
    
     aState = GPIO_read(&PIND,outputCLK);
     if (aState != aLastState && aState == 1)
