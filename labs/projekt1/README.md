@@ -35,7 +35,7 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 
 ## Hardware description
 ### Schema zapojení
-![schema](obr/schema1.png)
+![schema](obrazky/schema1.png)
 
 Insert descriptive text and schematic(s) of your implementation.
 
