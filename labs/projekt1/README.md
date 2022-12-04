@@ -41,6 +41,7 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 - Joy Y - ovládání joy-sticku po ose y. Na disleji se zobrazí (Up-Down)
 - Joy X - ovládání joy-sticku po ose x. Na disleji se zobrazí (Left-Right)
 - Encoder DT a Encoder CLK - simulace otočení enkodéru. Na displeji se zobrazí CW (Clockwise - rotace ve směru hodinových ručiček) nebo CC (Counter Clockwise - rotace protisměru hodinových ručiček)
+- Encoder SW - tlačitko na enkodéru
 
 Insert descriptive text and schematic(s) of your implementation.
 
