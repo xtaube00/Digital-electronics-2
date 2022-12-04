@@ -14,7 +14,7 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 
 ## Recommended GitHub repository structure
 
-    ```c
+   ```c
    YOUR_PROJECT        // PlatfomIO project
    ├── include         // Included files
    ├── lib             // Libraries
@@ -26,6 +26,7 @@ The goal of the project is cooperation in pairs, further study of the topic, des
    ```
 
 ## Recommended README.md file structure
+
 
 ### Team members
 
