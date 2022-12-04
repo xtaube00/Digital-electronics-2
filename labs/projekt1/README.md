@@ -34,6 +34,8 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 * Jakub Tauber (responsible for xxx)
 
 ## Hardware description
+### Schema zapojení
+![your figure]()
 
 Insert descriptive text and schematic(s) of your implementation.
 
