@@ -89,7 +89,8 @@ static uint8_t counter = 0;
 static uint8_t aState;
 static uint8_t aLastState = 0;
 static uint8_t btn_val2 = 1; 
-
+```
+```c
 
 //uint16_t adc_val=0;
 /* Function definitions ----------------------------------------------*/
