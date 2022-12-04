@@ -1,4 +1,4 @@
-# Project 1
+# Kontrola displeje zapomocí joy-sticku a rotačního enkodéru
 
 Application of analog joy-stick (2 ADC channels, 1 push button), rotary encoder, and Digilent PmodCLP LCD module.
 
