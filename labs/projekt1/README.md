@@ -46,7 +46,7 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 Insert descriptive text and schematic(s) of your implementation.
 
 ## Software description
-
+Import všech potřebných knihoven a definování proměnných.
  ```c
  #ifndef F_CPU
 #define F_CPU 16000000 // CPU frequency in Hz required for delay funcs
