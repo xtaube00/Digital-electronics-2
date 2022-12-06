@@ -290,5 +290,5 @@ int main(void)
 1. [https://www.electronicshub.org/arduino-uno-pinout/]
 2. [https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/]
 3. [https://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino]
-4. 
+4. [https://digilent.com/reference/pmod/pmodcls/reference-manual?redirect=1]
 
