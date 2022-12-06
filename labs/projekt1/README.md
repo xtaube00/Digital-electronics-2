@@ -287,6 +287,11 @@ int main(void)
  ```
  ### Doplňkové moduly
  * [timer](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/include)
+ * [gpio](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/lib/gpio)
+ * [lcd](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/lib/lcd)
+ * [uart](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/lib/uart)
+ * [soubory ze simulačního programu](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/soubory%20ze%20simula%C4%8Dn%C3%ADho%20programu)
+
 
 ## Video
 
