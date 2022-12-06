@@ -284,7 +284,7 @@ int main(void)
 
 ## Video
 
-[![Projekt01](Video)](https://www.youtube.com/watch?v=gr591NwyTGU)
+[![Projekt01](obrazky/schema1.png)](https://www.youtube.com/watch?v=gr591NwyTGU)
 
 
 ## References
