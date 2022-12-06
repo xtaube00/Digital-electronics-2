@@ -43,7 +43,10 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 - Encoder DT a Encoder CLK - simulace otočení enkodéru. Na displeji se zobrazí CW (Clockwise - rotace ve směru hodinových ručiček) nebo CC (Counter Clockwise - rotace protisměru hodinových ručiček)
 - Encoder SW - tlačitko na enkodéru. Na displeji se zobrazí EB:(On/Off)
 ### Rozložení pinů na desce (Arduino UNO)
-![schema](obrazky/.png)
+![schema](obrazky/uno.png)
+
+### Reálné zapojení obvodu ve cvičení
+![schema](obrazky/real.png)
 
 Insert descriptive text and schematic(s) of your implementation.
 
