@@ -1,4 +1,4 @@
-# Kontrola displeje zapomocí joy-sticku a rotačního enkodéru
+# Kontrola displeje pomocí joy-sticku a rotačního enkodéru
 
 
 
