@@ -285,7 +285,8 @@ int main(void)
     }
   }
  ```
- 
+ ### Doplňkové moduly
+ * [timer](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/include)
 
 ## Video
 
