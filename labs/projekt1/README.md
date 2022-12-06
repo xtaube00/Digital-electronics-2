@@ -1,38 +1,17 @@
 # Kontrola displeje zapomocí joy-sticku a rotačního enkodéru
 
-Application of analog joy-stick (2 ADC channels, 1 push button), rotary encoder, and Digilent PmodCLP LCD module.
-
-## Instructions
-
-The goal of the project is cooperation in pairs, further study of the topic, design of own solutions, implementation, creation of project documentation and presentation of results. The division of roles and tasks within the team is up to their members.
-
-* Students work on a project in the labs during the 10th and 11th weeks of the semester.
-
-* Through the BUT e-learning, students submit a link to the GitHub repository, which contains the complete project in PlatfomIO and a descriptive README file. The submission deadline is the day before the next laboratory, i.e. in 2 weeks.
-
-* The source code for the AVR must be written in C and/or Assembly and must be implementable on Arduino Uno board using toolchains from the semester, ie PlatformIO and not the Arduino-style. No other development tools are allowed.
-
-## Recommended GitHub repository structure
-
-   ```c
-   YOUR_PROJECT        // PlatfomIO project
-   ├── include         // Included files
-   ├── lib             // Libraries
-   ├── src             // Source file(s)
-   │   └── main.c
-   ├── test            // No need this
-   ├── platformio.ini  // Project Configuration File
-   └── README.md       // Report of this project
-   ```
-
-## Recommended README.md file structure
 
 
 ### Team members
 
-* Benjamin Nimmerrichter (responsible for xxx)
-* Jakub Tauber (responsible for xxx)
-
+* Benjamin Nimmerrichter (responsible for programing and video making)
+* Jakub Tauber (responsible for programing and documentation)
+## Obsah 
+* [Hardware description](#hardware)
+* [Software description](#software)
+* [Video](#video)
+* [References](#ref)
+<a name="hardware"></a>
 ## Hardware description
 ### Schema zapojení
 ![schema](obrazky/schema1.png)
@@ -48,8 +27,8 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 ### Reálné zapojení obvodu ve cvičení
 ![schema](obrazky/real.png)
 
-Insert descriptive text and schematic(s) of your implementation.
 
+<a name="software"></a>
 ## Software description
 ### Hlavní soubor (main.c)
 Import všech potřebných knihoven a definování proměnných.
@@ -287,12 +266,12 @@ int main(void)
  * [uart](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/lib/uart)
  * [soubory ze simulačního programu](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt1/soubory%20ze%20simula%C4%8Dn%C3%ADho%20programu)
 
-
+<a name="video"></a>
 ## Video
 
 [![Projekt01](obrazky/video.png)](https://www.youtube.com/watch?v=gr591NwyTGU)
 
-
+<a name="ref"></a>
 ## References
 
 1. Write your text here.
