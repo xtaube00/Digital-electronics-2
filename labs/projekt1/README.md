@@ -287,5 +287,8 @@ int main(void)
 <a name="ref"></a>
 ## References
 
-1. * [https://www.electronicshub.org/arduino-uno-pinout/]
+1. [https://www.electronicshub.org/arduino-uno-pinout/]
+2. [https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/]
+3. [https://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino]
+4. 
 
