@@ -274,5 +274,5 @@ int main(void)
 <a name="ref"></a>
 ## References
 
-1. Write your text here.
-2. ...
+1. * [https://www.electronicshub.org/arduino-uno-pinout/]
+
