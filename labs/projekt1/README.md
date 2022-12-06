@@ -98,13 +98,7 @@ static uint8_t btn_val2 = 1;
 ```
 ```c
 
-//uint16_t adc_val=0;
-/* Function definitions ----------------------------------------------*/
-/**********************************************************************
- * Function: Main function where the program execution begins
- * Purpose:  Toggle one LED and use delay library.
- * Returns:  none
- **********************************************************************/
+
 int main(void)
 {
   TIM1_overflow_interrupt_enable();
