@@ -15,7 +15,7 @@ V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkode
 * pootočení joy-sticku směrem vzhůru => na displeji se zobrazí (Joy:Up)
 * pootočení joy-sticku směrem dolů => na displeji se zobrazí (Joy:Down)
 * stisktuní tlačítka joy-sticku => na displeji se zobrazí (JB:On)
-#### Enkoder
+#### Enkodér
 * pootočení enkoderu ve směru hodinových ručiček => na displeji se zobrazí (Dir:CW)
 * pootočení enkoderu v protisměru hodinových ručiček => na displeji se zobrazí (Dir:CC)
 * stisktuní tlačítka enkoderu => na displeji se zobrazí (EB:On)
