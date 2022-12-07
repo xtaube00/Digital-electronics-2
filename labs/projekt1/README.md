@@ -38,7 +38,7 @@ V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkode
 ![schema](obrazky/uno.png)
 
 ### Reálné zapojení obvodu ve cvičení
-![schema](obrazky/real12.jpg) ![schema](obrazky/real2.jpg)
+![schema](obrazky/real12.jpg) ![schema](obrazky/real22.jpg)
 
 
 <a name="software"></a>
