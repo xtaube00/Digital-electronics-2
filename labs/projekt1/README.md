@@ -7,7 +7,7 @@
 * Benjamin Nimmerrichter (programování grafického rozhraní LCD, nákres schématu a tvorba videa)
 * Jakub Tauber (programování joysticku, enkodéru a tvorba dokumentu)
 ## Úvod
-V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkoder. Vytvořili jsme program, který nám vypisuje na displej pohyby a sepnutí joy-sticku a enkoderu.
+V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkodér. Vytvořili jsme program, který nám vypisuje na displej pohyby a sepnutí joy-sticku a enkodéru.
 ### Popis funkce
 #### Joy-stick
 * pootočení joy-sticku doprava => na displeji se zobrazí (Joy:Right)
@@ -16,9 +16,9 @@ V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkode
 * pootočení joy-sticku směrem dolů => na displeji se zobrazí (Joy:Down)
 * stisktuní tlačítka joy-sticku => na displeji se zobrazí (JB:On)
 #### Enkodér
-* pootočení enkoderu ve směru hodinových ručiček => na displeji se zobrazí (Dir:CW)
-* pootočení enkoderu v protisměru hodinových ručiček => na displeji se zobrazí (Dir:CC)
-* stisktuní tlačítka enkoderu => na displeji se zobrazí (EB:On)
+* pootočení enkodéru ve směru hodinových ručiček => na displeji se zobrazí (Dir:CW)
+* pootočení enkodéru v protisměru hodinových ručiček => na displeji se zobrazí (Dir:CC)
+* stisktuní tlačítka enkodéru => na displeji se zobrazí (EB:On)
 ## Obsah 
 * [Hardware](#hardware)
 * [Software](#software)
