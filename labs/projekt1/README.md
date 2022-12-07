@@ -1,4 +1,4 @@
-# Kontrola displeje pomocí joy-sticku a rotačního enkodéru
+# Převod vstupů ovládacích prvků s výstupem pro lepší čitelnost uživatelem
 
 
 
