@@ -2,10 +2,10 @@
 
 
 
-### Team members
+### Členové týmu
 
-* Benjamin Nimmerrichter (responsible for programing and video making)
-* Jakub Tauber (responsible for programing and documentation)
+* Benjamin Nimmerrichter (programování a tvorba videa)
+* Jakub Tauber (programování a dokumentace)
 ## Úvod
 V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkoder. Vytvořili jsme program, který nám vypisuje na displej pohyby a sepnutí joy-sticku a enkoderu.
 ### Popis funkce
@@ -20,12 +20,12 @@ V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkode
 * pootočení enkoderu v protisměru hodinových ručiček => na displeji se zobrazí (Dir:CC)
 * stisktuní tlačítka enkoderu => na displeji se zobrazí (EB:On)
 ## Obsah 
-* [Hardware description](#hardware)
-* [Software description](#software)
+* [Hardware](#hardware)
+* [Software](#software)
 * [Video](#video)
-* [References](#ref)
+* [Zdroje](#ref)
 <a name="hardware"></a>
-## Hardware description
+## Hardware 
 ### Schéma zapojení
 ![schema](obrazky/schema1.png)
 #### Popis ovládacích prvků
@@ -42,7 +42,7 @@ V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkode
 
 
 <a name="software"></a>
-## Software description
+## Software 
 ### Hlavní soubor (main.c)
 Import všech potřebných knihoven a definování proměnných.
  ```c
@@ -285,7 +285,7 @@ int main(void)
 [![Projekt01](obrazky/video.png)](https://www.youtube.com/watch?v=gr591NwyTGU)
 
 <a name="ref"></a>
-## References
+## Zdroje
 
 1. [https://www.electronicshub.org/arduino-uno-pinout/]
 2. [https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/]
