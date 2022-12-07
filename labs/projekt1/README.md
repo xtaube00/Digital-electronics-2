@@ -26,7 +26,7 @@ V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkode
 * [References](#ref)
 <a name="hardware"></a>
 ## Hardware description
-### Schema zapojení
+### Schéma zapojení
 ![schema](obrazky/schema1.png)
 #### Popis ovládacích prvků
 - Joy BTN - tlačítko na joy-sticku. Na displeji se zobrazí JB:(On/Off)
