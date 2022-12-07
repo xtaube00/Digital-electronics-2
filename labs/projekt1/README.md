@@ -4,8 +4,8 @@
 
 ### Členové týmu
 
-* Benjamin Nimmerrichter (programování a tvorba videa)
-* Jakub Tauber (programování a dokumentace)
+* Benjamin Nimmerrichter (programování grafického rozhraní LCD, nákres schématu a tvorba videa)
+* Jakub Tauber (programování-joystick, enkodér a tvorba dokumentu)
 ## Úvod
 V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkoder. Vytvořili jsme program, který nám vypisuje na displej pohyby a sepnutí joy-sticku a enkoderu.
 ### Popis funkce
@@ -290,5 +290,5 @@ int main(void)
 1. [https://www.electronicshub.org/arduino-uno-pinout/]
 2. [https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/]
 3. [https://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino]
-4. [https://digilent.com/reference/pmod/pmodcls/reference-manual?redirect=1]
+4. [https://digilent.com/reference/pmod/pmodclp/reference-manual?redirect=1]
 
