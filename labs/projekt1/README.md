@@ -5,7 +5,7 @@
 ### Členové týmu
 
 * Benjamin Nimmerrichter (programování grafického rozhraní LCD, nákres schématu a tvorba videa)
-* Jakub Tauber (programování-joystick, enkodér a tvorba dokumentu)
+* Jakub Tauber (programování joysticku, enkodéru a tvorba dokumentu)
 ## Úvod
 V projektu jsme měli za úkol použí lcd displej, joy-stick a rotační enkoder. Vytvořili jsme program, který nám vypisuje na displej pohyby a sepnutí joy-sticku a enkoderu.
 ### Popis funkce
