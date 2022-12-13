@@ -1,4 +1,4 @@
-             # Project 2
+# Project 2
 
 Precise generation of several PWM channels. Application of two (or more) Servo motors SG90.
 
@@ -16,13 +16,13 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 
    ```c
    YOUR_PROJECT        // PlatfomIO project
-   +¦¦ include         // Included files
-   +¦¦ lib             // Libraries
-   +¦¦ src             // Source file(s)
-   -   L¦¦ main.c
-   +¦¦ test            // No need this
-   +¦¦ platformio.ini  // Project Configuration File
-   L¦¦ README.md       // Report of this project
+   +Â¦Â¦ include         // Included files
+   +Â¦Â¦ lib             // Libraries
+   +Â¦Â¦ src             // Source file(s)
+   -   LÂ¦Â¦ main.c
+   +Â¦Â¦ test            // No need this
+   +Â¦Â¦ platformio.ini  // Project Configuration File
+   LÂ¦Â¦ README.md       // Report of this project
    ```
 
 ## Recommended README.md file structure
