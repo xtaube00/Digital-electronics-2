@@ -51,13 +51,9 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 | COM1A1/COM1B1 | COM1A0/COM1B0 | Description 
 | :-: | :-: | :-: |
 | 0 | 0 | Normal port operation, OC1A/OC1B disconnected | 
-| 0 | 1 | WGM13:0 = 14 or 15: Toggle OC1A on compare match, OC1B
-disconnected (normal port operation). For all other WGM1
-settings, normal port operation, OC1A/OC1B disconnected. |
-| 1 | 0 | Clear OC1A/OC1B on compare match, set OC1A/OC1B at
-BOTTOM (non-inverting mode) | 
-| 1 | 1 | Set OC1A/OC1B on compare match, clear OC1A/OC1B at
-BOTTOM (inverting mode) |
+| 0 | 1 | WGM13:0 = 14 or 15: Toggle OC1A on compare match, OC1B disconnected (normal port operation). For all other WGM1 settings, normal port operation |
+| 1 | 0 | Clear OC1A/OC1B on compare match, set OC1A/OC1B at BOTTOM (non-inverting mode) | 
+| 1 | 1 | Set OC1A/OC1B on compare match, clear OC1A/OC1B at BOTTOM (inverting mode) |
 
 * TCCR1B – Timer/Counter1 Control Register B:
 
