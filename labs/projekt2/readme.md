@@ -10,7 +10,7 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
    +¦¦ lib             // Libraries
    +¦¦ src             // Source file(s)
    -   L¦¦ main.c
-   +¦¦ test            // No need this
+   +¦¦ test            
    +¦¦ platformio.ini  // Project Configuration File
    L¦¦ README.md       // Report of this project
    ```
