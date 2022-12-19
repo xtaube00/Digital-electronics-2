@@ -37,6 +37,14 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 
 
 ## Software description
+* TCCR1A – Timer/Counter1 Control Register A:
+
+| **Bit** | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **(0x80)** | COM1A1 | COM1A0 | COM1B1 | COM1B0 | - | - | WGM11 | WGM10 |
+| **Read/Write** | R/W | R/W | R/W | R/W | R | R | R/W | R/W |
+| **Value** | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 |
+| **Description** | controls pin 9 | controls pin 9 | controls pin 10 | controls pin 10 | - | - | Waveform Generation Mode | Waveform Generation Mode |
 
 * TCCR1B – Timer/Counter1 Control Register B:
 
