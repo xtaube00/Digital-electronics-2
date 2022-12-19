@@ -22,9 +22,11 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 * Benjamin Nimmerrichter (responsible for xxx)
 * Jakub Tauber (responsible for xxx)
 
-## Hardware description
+## Hardware 
+### Výstupy pro použítí PWM 
+![uno](obrazky/uno.png)
 
-Insert descriptive text and schematic(s) of your implementation.
+
 
 ## Software description
 
