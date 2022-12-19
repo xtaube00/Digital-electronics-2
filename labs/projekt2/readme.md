@@ -25,6 +25,8 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 ## Hardware 
 ### Výstupy pro použítí PWM 
 ![uno](obrazky/uno.png)
+### Reálné schéma zapojení
+![uno](obrazky/schema.png)
 
 
 
