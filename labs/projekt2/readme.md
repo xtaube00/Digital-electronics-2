@@ -37,6 +37,8 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 
 
 ## Software description
+
+Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili registry TCCR1A a TCCR1B v režimu **Fast PWM** 
 * TCCR1A – Timer/Counter1 Control Register A:
 
 | **Bit** | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
