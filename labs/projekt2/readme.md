@@ -15,7 +15,7 @@ The goal of the project is cooperation in pairs, further study of the topic, des
 ## Recommended GitHub repository structure
 
    ```c
-   YOUR_PROJECT        // PlatfomIO project
+   Projek2        // PlatfomIO project
    +¦¦ include         // Included files
    +¦¦ lib             // Libraries
    +¦¦ src             // Source file(s)
