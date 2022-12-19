@@ -30,9 +30,9 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 
 | **Servo motor** | **Popis konektorů** | **Označení** |
 | :-: | :-: | :-: |
-| GND | Napájení (zem) | ![uno](obrazky/hne.png) |
-| VCC | Napájení (+5V) | ![uno](obrazky/cerv.png) |
 | PWM | PWM signál | ![uno](obrazky/orn.png) |
+| VCC | Napájení (+5V) | ![uno](obrazky/cerv.png) |
+| GND | Napájení (zem) | ![uno](obrazky/hne.png) |
 
 
 
