@@ -28,7 +28,11 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 ### Reálné schéma zapojení
 ![uno](obrazky/schema.png)
 
-bg-red { background-color: #FF4136; }
+| **Servo motor** | **Popis konektorů** | **Označení** |
+| :-: | :-: | :-: |
+| GND | Napájení - zem |  |
+| VCC | Napájení - +5V |  |
+| PWM | PWM signál |  |
 
 
 
