@@ -32,7 +32,7 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 | :-: | :-: | :-: |
 | GND | Napájení - zem |  |
 | VCC | Napájení - +5V |  |
-| PWM | PWM signál |  |
+| PWM | PWM signál | ![uno](obrazky/orn.png) |
 
 
 
