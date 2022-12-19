@@ -38,8 +38,14 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 
 ## Software description
 
-Put flowchats of your algorithm(s). Write descriptive text of your libraries and source files. Put direct links to these files in `src` or `lib` folders.
+* TCCR1B – Timer/Counter1 Control Register B:
 
+| **Bit** | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **(0x81)** | ICNC1 | ICES1 | - | WGM13 | WGM12 | CS12 | CS11 | CS10 |
+| **Read/Write** | R/W | R/W | R | R/W | R/W | R/W | R/W | R/W |
+| **Value** | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 |
+| **Description** | Input Capture Noise Canceler |  Input Capture Edge Select | Reserved bit | Waveform Generation Mode | Waveform Generation Mode | Clock Select | Clock Select | Clock Select |
 ## Video
 
 Insert a link to a short video with your practical implementation example (1-3 minutes, e.g. on YouTube).
