@@ -28,6 +28,8 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 ### Reálné schéma zapojení
 ![uno](obrazky/schema.png)
 
+bg-red { background-color: #FF4136; }
+
 
 
 ## Software description
