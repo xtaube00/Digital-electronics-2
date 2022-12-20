@@ -11,7 +11,6 @@ Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG
    ├── include  
        └── timer.h
    ├── lib 
-       └── gpio
    ├── obrazky
    ├── pio
    ├── src              // Source file
@@ -100,7 +99,6 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 ### Seznam zdrojových souborů
 * [main.c](https://github.com/xtaube00/Digital-electronics-2/blob/main/labs/projekt2/src/main.c)
 * [timer.h](https://github.com/xtaube00/Digital-electronics-2/blob/main/labs/projekt2/include/timer.h)
-* [gpio](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt2/lib/gpio)
 ### Schéma zapojení v simulačním programu
 ![uno](obrazky/simulace1.png)
 ### Vývojový diagram
