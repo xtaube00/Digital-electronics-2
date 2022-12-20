@@ -9,13 +9,18 @@ Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG
    ```c
    Projekt 2            // PlatfomIO project
    ├── include         
-   ├── lib             
+   ├── lib 
+       └── gpio
+   ├── obrazky
+   ├── pio
    ├── src              // Source file
    │   └── main.c
    ├── test
+   ├── vscode
    │     
    └── platformio.ini   // Project Configuration File
-   └── README.md        // Report of this project
+   └── readme.md        // Report of this project
+   └── simulace2.simu
    ```
 
 ### Obsah
