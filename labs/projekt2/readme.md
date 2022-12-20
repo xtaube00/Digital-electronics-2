@@ -82,7 +82,7 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 | **Doba trvání pulzu** | 1ms | 1,5ms | 2ms 
 | :-: | :-: | :-: | :-: |
 | **Otočení serva** |  0° | 90° | 180° |
-| **Read/Write** | R/W | R/W | R |
+
 
 ![uno](obrazky/servo1.png)
 
