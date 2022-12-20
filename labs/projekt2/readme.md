@@ -108,8 +108,7 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 
 <a name="video"></a>
 ## Video
-
-Insert a link to a short video with your practical implementation example (1-3 minutes, e.g. on YouTube).
+[![Projekt2](obrazky/video.png)](https://www.youtube.com/watch?v=E9tIq9824uA)
 
 <a name="zdroje"></a>
 
