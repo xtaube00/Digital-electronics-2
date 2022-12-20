@@ -78,6 +78,7 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 * Servomotor je řízen vysíláním série impulsů. 
 * Frekvence řídicího signálu by měla být 50 Hz nebo by měl nastat impuls každých 20 ms. 
 * Šířka impulsu určuje úhlovou polohu serva a tyto typy serv se obvykle mohou otáčet o 180 stupňů.
+
 | **Doba trvání pulzu** | 1ms | 1,5ms | 2ms 
 | :-: | :-: | :-: | :-: |
 | **Otočení serva** |  0° | 90° | 180° |
