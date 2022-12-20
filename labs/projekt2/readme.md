@@ -11,7 +11,7 @@ Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG
    ├── include         
    ├── lib             
    ├── src              // Source file
-   │   └── [main.c](https://github.com/xtaube00/Digital-electronics-2/blob/main/labs/projekt2/src/main.c)
+   │   └── main.c
    ├── test
    │     
    └── platformio.ini   // Project Configuration File
@@ -87,6 +87,9 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 
 
 ![uno](obrazky/servo1.png)
+
+
+[main.c](https://github.com/xtaube00/Digital-electronics-2/blob/main/labs/projekt2/src/main.c)
 
 
 <a name="video"></a>
