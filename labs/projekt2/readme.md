@@ -1,7 +1,9 @@
 # Projekt 2
 
-Precise generation of several PWM channels. Application of two (or more) Servo motors SG90.
+## Zadání
+Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG90.
 <a name="github"></a>
+
 ## Recommended GitHub repository structure
 
    ```c
