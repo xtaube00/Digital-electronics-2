@@ -35,7 +35,7 @@ Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG
 
 ### Členové týmu
 
-* Benjamin Nimmerrichter (programování servo motorů, tvorba videa, simulace)
+* Benjamin Nimmerrichter (programování servo motorů, tvorba videa, simulace, vývojový diagram)
 * Jakub Tauber (programování servo motorů, dokumentace, tvorba schéma)
 <a name="hardware"></a>
 ## Hardware 
