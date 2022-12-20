@@ -20,7 +20,7 @@ Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG
    │     
    └── platformio.ini   // Project Configuration File
    └── readme.md        // Report of this project
-   └── simulace2.simu
+   └── simulace2.simu   // Project simulation
    ```
 
 ### Obsah
