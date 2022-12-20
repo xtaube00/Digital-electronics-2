@@ -4,7 +4,7 @@
 Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG90.
 <a name="github"></a>
 
-## Recommended GitHub repository structure
+## Struktura Github repozitáře
 
    ```c
    Projekt 2            // PlatfomIO project
