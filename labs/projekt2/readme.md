@@ -101,6 +101,7 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 * [timer.h](https://github.com/xtaube00/Digital-electronics-2/blob/main/labs/projekt2/include/timer.h)
 ### Schéma zapojení v simulačním programu
 ![uno](obrazky/simulace1.png)
+* [simulace zde](https://github.com/xtaube00/Digital-electronics-2/blob/main/labs/projekt2/simulace2.simu)
 ### Vývojový diagram
 ![uno](obrazky/diag.png)
 
