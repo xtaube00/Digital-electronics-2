@@ -16,7 +16,7 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
    └── README.md        // Report of this project
    ```
 
-## Recommended README.md file structure
+### Obsah
 * [Struktura Github repozitáře](#github)
 * [Hardware](#hardware)
 * [Software](#software)
