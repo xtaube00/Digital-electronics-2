@@ -98,7 +98,7 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 [main.c](https://github.com/xtaube00/Digital-electronics-2/blob/main/labs/projekt2/src/main.c)
 
 ### Schéma zapojení v simulačním programu
-![uno](obrazky/simulace.png)
+![uno](obrazky/simulace1.png)
 
 
 
