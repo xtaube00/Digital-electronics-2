@@ -1,11 +1,11 @@
-# Project 2
+# Projekt 2
 
 Precise generation of several PWM channels. Application of two (or more) Servo motors SG90.
 
 ## Recommended GitHub repository structure
 
    ```c
-   project_2.0            // PlatfomIO project
+   Projekt 2            // PlatfomIO project
    ├── include         
    ├── lib             
    ├── src              // Source file
