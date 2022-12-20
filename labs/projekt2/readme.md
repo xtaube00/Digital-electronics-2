@@ -38,6 +38,9 @@ Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG
 * Benjamin Nimmerrichter (programování servo motorů, tvorba videa, simulace, vývojový diagram)
 * Jakub Tauber (programování servo motorů, dokumentace, tvorba schéma)
 <a name="hardware"></a>
+
+## Úvod projektu
+Tento projekt vytváří 4 nezávislé PWM signály pro ovládání servomotorů. Projekt je napsán v jazyce C a většina programu je realizovaná pomocí nastavování registrů na mikrokontroleru Atmega328P. Hlavní smyčka programu je prázdná, pro nastavování veličin se používá obsluha přerušení ISR časovače Timer/Counter0. Výsledná realizace využívá 8 Bytů RAM a 1416 Bytů flash paměti."
 ## Hardware 
 ### Výstupy pro použítí PWM 
 ![uno](obrazky/uno.png)
