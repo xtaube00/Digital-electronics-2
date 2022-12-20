@@ -281,7 +281,7 @@ int main(void)
 <a name="video"></a>
 ## Video
 
-[![Projekt01](obrazky/video.png)](https://www.youtube.com/watch?v=gr591NwyTGU)
+[![Projekt2](obrazky/video.png)](https://www.youtube.com/watch?v=E9tIq9824uA)
 
 <a name="ref"></a>
 ## Zdroje
