@@ -74,6 +74,18 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 | **Value** | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 |
 | **Description** | Input Capture Noise Canceler |  Input Capture Edge Select | Reserved bit | Waveform Generation Mode | Waveform Generation Mode | Clock Select | Clock Select | Clock Select |
 
+### Řízení servomotoru
+* Servomotor je řízen vysíláním série impulsů. 
+* Frekvence řídicího signálu by měla být 50 Hz nebo by měl nastat impuls každých 20 ms. 
+* Šířka impulsu určuje úhlovou polohu serva a tyto typy serv se obvykle mohou otáčet o 180 stupňů.
+| **Doba trvání pulzu** | 1ms | 1,5ms | 2ms 
+| :-: | :-: | :-: | :-: |
+| **Otočení serva** |  0° | 90° | 180° |
+| **Read/Write** | R/W | R/W | R |
+
+![uno](obrazky/rizeni.png)
+
+
 <a name="video"></a>
 ## Video
 
