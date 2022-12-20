@@ -5,14 +5,15 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 ## Recommended GitHub repository structure
 
    ```c
-   Projek2        // PlatfomIO project
-   +¦¦ include         // Included files
-   +¦¦ lib             // Libraries
-   +¦¦ src             // Source file(s)
-   -   L¦¦ main.c
-   +¦¦ test            
-   +¦¦ platformio.ini  // Project Configuration File
-   L¦¦ README.md       // Report of this project
+   project_2.0            // PlatfomIO project
+   ├── include         
+   ├── lib             
+   ├── src              // Source file
+   │   └── main.c
+   ├── test
+   │     
+   └── platformio.ini   // Project Configuration File
+   └── README.md        // Report of this project
    ```
 
 ## Recommended README.md file structure
