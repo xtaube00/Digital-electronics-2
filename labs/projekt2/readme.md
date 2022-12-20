@@ -8,7 +8,8 @@ Generování několika PWM kanálů. Použití dvou (nebo více) servomotorů SG
 
    ```c
    Projekt 2            // PlatfomIO project
-   ├── include         
+   ├── include  
+       └── timer.h
    ├── lib 
        └── gpio
    ├── obrazky
