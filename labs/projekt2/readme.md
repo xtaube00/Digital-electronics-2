@@ -84,7 +84,7 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 | **Otočení serva** |  0° | 90° | 180° |
 | **Read/Write** | R/W | R/W | R |
 
-![uno](obrazky/rizeni.png)
+![uno](obrazky/servo1.png)
 
 
 <a name="video"></a>
