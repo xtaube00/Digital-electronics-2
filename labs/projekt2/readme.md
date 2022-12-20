@@ -103,6 +103,8 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 * [gpio](https://github.com/xtaube00/Digital-electronics-2/tree/main/labs/projekt2/lib/gpio)
 ### Schéma zapojení v simulačním programu
 ![uno](obrazky/simulace1.png)
+### Vývojový diagram
+![uno](obrazky/diag.png)
 
 
 
