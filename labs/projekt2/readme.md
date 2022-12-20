@@ -1,7 +1,7 @@
 # Projekt 2
 
 Precise generation of several PWM channels. Application of two (or more) Servo motors SG90.
-
+<a name="github"></a>
 ## Recommended GitHub repository structure
 
    ```c
@@ -17,12 +17,19 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
    ```
 
 ## Recommended README.md file structure
+* [Struktura Github repozitáře](#github)
+* [Hardware](#hardware)
+* [Software](#software)
+* [Video](#video)
+* [References](#zdroje)
+
+<a name="github"></a>
 
 ### Team members
 
 * Benjamin Nimmerrichter (responsible for xxx)
 * Jakub Tauber (responsible for xxx)
-
+<a name="hardware"></a>
 ## Hardware 
 ### Výstupy pro použítí PWM 
 ![uno](obrazky/uno.png)
@@ -36,7 +43,7 @@ Precise generation of several PWM channels. Application of two (or more) Servo m
 | GND | Napájení (zem) | ![uno](obrazky/hne.png) |
 
 
-
+<a name="software"></a>
 ## Software description
 
 Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili registry TCCR1A a TCCR1B v režimu **Fast PWM** 
@@ -66,10 +73,14 @@ Pro vytvoření ovládacího signálu pro řízení servo motorů jsme použili 
 | **Read/Write** | R/W | R/W | R | R/W | R/W | R/W | R/W | R/W |
 | **Value** | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 |
 | **Description** | Input Capture Noise Canceler |  Input Capture Edge Select | Reserved bit | Waveform Generation Mode | Waveform Generation Mode | Clock Select | Clock Select | Clock Select |
+
+<a name="video"></a>
 ## Video
 
 Insert a link to a short video with your practical implementation example (1-3 minutes, e.g. on YouTube).
 
-## References
+<a name="zdroje"></a>
+
+## Zdroje
 
 1. [Servo motor](https://howtomechatronics.com/how-it-works/how-servo-motors-work-how-to-control-servos-using-arduino/)
