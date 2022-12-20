@@ -100,4 +100,4 @@ Insert a link to a short video with your practical implementation example (1-3 m
 
 1. [Servo motor](https://howtomechatronics.com/how-it-works/how-servo-motors-work-how-to-control-servos-using-arduino/)
 2. [ATmega328P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
-3. [Obrázek otočení servo motoru] (https://www.makerguides.com/servo-arduino-tutorial/)
+3. [Obrázek otočení servo motoru](https://www.makerguides.com/servo-arduino-tutorial/)
